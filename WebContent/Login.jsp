@@ -4,7 +4,7 @@
 <html>
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=ISO-8859-1">
-<title>JAVA WEB APP</title>
+<title>JAVA WEB APPs</title>
 <style>
 #first {
 	background-color: #FFFFFF;
