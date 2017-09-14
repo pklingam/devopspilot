@@ -13,7 +13,7 @@
 <body>
 <%
 InetAddress ipAddr = InetAddress.getLocalHost();
-String val="http://"+ipAddr.getHostAddress()+":8080/MissionD/";
+String val="http://13.126.158.162:8080/MissionD/";
 Connection con = null;
 String username = request.getParameter("username"); 
 username = username.toLowerCase();
