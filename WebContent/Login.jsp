@@ -4,7 +4,7 @@
 <html>
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=ISO-8859-1">
-<title>JAVA WEB APPS New</title>
+<title>JAVA WEB APPS New2 </title>
 <style>
 #first {
 	background-color: #FFFFFF;
@@ -30,7 +30,7 @@
 					<tr>
 						<td><font size="2px">Password</font></td>
 						<td>:</td>
-						<td><input type="password" name="password"  /></td>
+						<td><input type="password" name="password" id="password" /></td>
 					</tr>
 					<tr></tr>
 				</table>
