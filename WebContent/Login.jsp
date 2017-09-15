@@ -30,7 +30,7 @@
 					<tr>
 						<td><font size="2px">Password</font></td>
 						<td>:</td>
-						<td><input type="password" name="password" id="password" /></td>
+						<td><input type="password" name="password"  /></td>
 					</tr>
 					<tr></tr>
 				</table>
